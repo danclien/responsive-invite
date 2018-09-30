@@ -1,0 +1,52 @@
+<mjml>
+  <mj-head>
+    <mj-preview>Party time!</mj-preview>
+    <mj-attributes>
+      <mj-text font-size="13px" font-family="Arial,Helvetica,sans-serif" />
+      <mj-class name="rightPane" align="center" font-family="'Open Sans', Verdana, Geneva, sans-serif" font-size="13px" text-transform="uppercase" letter-spacing="3px" />
+    </mj-attributes>    
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css?family=Open+Sans" />
+  </mj-head>
+  <mj-body width="600px" background-color="#ffffff">
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          Party time!
+        </mj-text>
+        <mj-text>
+          Hope you can make it!<br />
+          Me
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" border="1px solid #aaa" padding="0">
+      <mj-column width="50%" vertical-align="middle" >
+        <mj-image padding="0" src="https://dummyimage.com/300x550" width="300px" height="550px" />
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle" background-color="#fff" padding="30px 0" >
+        <mj-text mj-class="rightPane" font-weight="bold" font-size="20px" >
+          Birthday party
+        </mj-text>
+        <mj-image src="https://dummyimage.com/250x150" width="250px" height="150px" padding="30px 0" />
+        <mj-text mj-class="rightPane" >
+          Please join us for 
+        </mj-text>
+        <mj-text mj-class="rightPane" font-size="18px" font-weight="bold" >
+          My 100th birthday party!
+        </mj-text>
+        <mj-text mj-class="rightPane" >
+          On Monday, January 1st
+        </mj-text>
+        <mj-text mj-class="rightPane" >
+          At 7:00PM
+        </mj-text>
+        <mj-text mj-class="rightPane" >
+          My house
+        </mj-text>        
+        <mj-text mj-class="rightPane">
+          12345 Elm St
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
